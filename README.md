@@ -4,6 +4,14 @@ Mosh Studio is a local video editor for datamoshing. Arrange clips on a
 timeline, add motion-vector glitch effects and mosh transitions, preview the
 result, and export a 1080p MP4. Your clips and projects stay on your computer.
 
+One real Mosh Studio edit, from a mountain road to a motion melt:
+
+| The road | First shift | Trees bending | Full melt |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/images/trees-before.jpg" alt="Trees and a mountain seen from a moving car before the glitch" width="180"> | <img src="docs/images/trees-first-shift.jpg" alt="The first visible distortion in the trees" width="180"> | <img src="docs/images/trees-bending.jpg" alt="Recognizable trees and mountain bending into a glitch" width="180"> | <img src="docs/images/trees-melt.jpg" alt="The scene dissolved into saturated, chaotic color" width="180"> |
+
+*Four moments from the same video, made in Mosh Studio.*
+
 **Tested setup:** macOS on Apple Silicon. Intel Macs and Linux have not been
 tested.
 
