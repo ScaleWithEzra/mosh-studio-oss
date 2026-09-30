@@ -1,0 +1,11 @@
+cache/
+nohup.out
+__pycache__/
+.DS_Store
+ffglitch/
+testclips/
+work/
+projects/
+HANDOFF.md
+CODEX_PROMPT.md
+.venv/
